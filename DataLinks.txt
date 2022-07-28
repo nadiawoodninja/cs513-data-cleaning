@@ -1,0 +1,5 @@
+Dirty Data: 
+https://github.com/nadiawoodninja/cs513-data-cleaning/blob/main/1InitialData/farmersmarkets-2017-01-10.csv
+
+Cleaned Data: 
+https://github.com/nadiawoodninja/cs513-data-cleaning/tree/main/2CleanedData
